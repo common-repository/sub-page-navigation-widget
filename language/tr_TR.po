@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sub Page Navigation Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-14 21:12+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe\n"
+"Language-Team: Ramerta Grup <omerk@algentarim.com.tr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../form.php:2
+msgid "Title:"
+msgstr "Başlık:"
+
+#: ../form.php:8
+msgid "Hide the widget title."
+msgstr "Bileşen başlığını gizle."
+
+#: ../form.php:13
+msgid "Replace the widget title with the title of the parent page if possible."
+msgstr "Eğer mümkünse, ana sayfanın başlığını bileşen başlığı ile değiştir."
+
+#: ../form.php:33
+msgid "Do not show this widget on top level pages if there are no sub pages."
+msgstr "Eğer alt sayfalar mevcut değilse, bu bileşeni sayfaların üst tarafında gösterme."
+
+#: ../form.php:38
+msgid "Hide link to parant page."
+msgstr "Linki ana sayfada gizle."
+
+#: ../widget-sub-page-navigation.php:27
+msgid "Sub Pages"
+msgstr "Alt Sayfalar"
+
+#: ../widget-sub-page-navigation.php:28
+msgid "You can add this widget to sidebars on pages to show all sub pages of the current one."
+msgstr "Mevcut bir sayfanın tüm alt sayfalarında göstermek için bu bileşeni sayfalardaki sütunlara ekleyebilirsiniz."
+
+#: ../widget-sub-page-navigation.php:51
+msgid "Navigation"
+msgstr "Yönlendirme"
+
